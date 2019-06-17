@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "727816263171",
+    "firebase_url": "https://moshimoshiapp-716de.firebaseio.com",
+    "project_id": "moshimoshiapp-716de",
+    "storage_bucket": "moshimoshiapp-716de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727816263171:android:3b3a27a80183a248",
+        "android_client_info": {
+          "package_name": "com.moshi.gusrinda.moshimoshiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727816263171-0ut99jgusg7b83s4tjodqcpdek3cqffl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moshi.gusrinda.moshimoshiapp",
+            "certificate_hash": "2f9fe8fdcd68a40d26aca76f4086748e735700c4"
+          }
+        },
+        {
+          "client_id": "727816263171-9rch3nv51gp9hgadee55hglh4k0asro5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD742-DpiunbjArM7GgAzNDEMyhgTcKl6o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727816263171-9rch3nv51gp9hgadee55hglh4k0asro5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
